@@ -7,6 +7,7 @@ and I need to check that everything works right. Here, I will list all solutions
 - divide the user story into endpoints that do 1,2,3... 
 - write the endpoint body and response before code the endpoint
 - check the criteria and that it do the right behavior
+- update the docs and explain everything you did and what you expect and how the response looks like
 
 ### Automate the basic flow
 - after making sure that it works right and it matches the user story
